@@ -1,6 +1,6 @@
 {
   "name": "num-pad",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Simple function to pad the passed in number, if less than 10 return 0<num> otherwise just returns the number.",
   "main": "index.js",
   "scripts": {
